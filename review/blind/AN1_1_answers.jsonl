@@ -1,0 +1,60 @@
+{"id": "AN1-001", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "AN1-002", "answer": "A", "confidence": "medium", "issue": "depends on existential import (needs a term assumed non-empty); under possibly-empty sets the key differs"}
+{"id": "AN1-003", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "AN1-004", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "AN1-005", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "AN1-006", "answer": "C", "confidence": "medium", "issue": "CII needs doctors non-empty; depends on existential import (needs a term assumed non-empty); under possibly-empty sets the key differs"}
+{"id": "AN1-007", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "AN1-008", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "AN1-009", "answer": "A", "confidence": "high", "issue": ""}
+{"id": "AN1-010", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "AN1-011", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "AN1-012", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "AN1-013", "answer": "C", "confidence": "medium", "issue": "CI needs painters non-empty; depends on existential import (needs a term assumed non-empty); under possibly-empty sets the key differs"}
+{"id": "AN1-014", "answer": "B", "confidence": "medium", "issue": "CII needs vegetables non-empty; depends on existential import (needs a term assumed non-empty); under possibly-empty sets the key differs"}
+{"id": "AN1-015", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "AN1-016", "answer": "A", "confidence": "high", "issue": ""}
+{"id": "AN1-017", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "AN1-018", "answer": "A", "confidence": "high", "issue": "CI is a restatement of S1 (trivially easy)"}
+{"id": "AN1-019", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "AN1-020", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "AN1-021", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "AN1-022", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "AN1-023", "answer": "A", "confidence": "medium", "issue": "CIII needs mangoes non-empty; depends on existential import (needs a term assumed non-empty); under possibly-empty sets the key differs"}
+{"id": "AN1-024", "answer": "D", "confidence": "medium", "issue": "CI/CIII rely on non-empty terms; depends on existential import (needs a term assumed non-empty); under possibly-empty sets the key differs"}
+{"id": "AN1-025", "answer": "A", "confidence": "high", "issue": ""}
+{"id": "AN1-026", "answer": "B", "confidence": "medium", "issue": "complex either/or option wording; I/III/IV rely on existential import"}
+{"id": "AN1-027", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "AN1-028", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "AN1-029", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "AN1-030", "answer": "A", "confidence": "high", "issue": ""}
+{"id": "AN1-031", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "AN1-032", "answer": "D", "confidence": "medium", "issue": "CI/CII need non-empty pencils; depends on existential import (needs a term assumed non-empty); under possibly-empty sets the key differs"}
+{"id": "AN1-033", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "AN1-034", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "AN1-035", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "AN1-036", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "AN1-037", "answer": "A", "confidence": "high", "issue": ""}
+{"id": "AN1-038", "answer": "B", "confidence": "medium", "issue": "CII needs rocks/stones non-empty; depends on existential import (needs a term assumed non-empty); under possibly-empty sets the key differs"}
+{"id": "AN1-039", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "AN1-040", "answer": "A", "confidence": "medium", "issue": "CI/CII need non-empty terms; depends on existential import (needs a term assumed non-empty); under possibly-empty sets the key differs"}
+{"id": "AN1-041", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "AN1-042", "answer": "A", "confidence": "high", "issue": ""}
+{"id": "AN1-043", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "AN1-044", "answer": "A", "confidence": "high", "issue": ""}
+{"id": "AN1-045", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "AN1-046", "answer": "A", "confidence": "medium", "issue": "CI possibility only holds if fish assumed non-empty; depends on existential import (needs a term assumed non-empty); under possibly-empty sets the key differs"}
+{"id": "AN1-047", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "AN1-048", "answer": ["A", "B", "C"], "confidence": "high", "issue": ""}
+{"id": "AN1-049", "answer": ["A", "D"], "confidence": "high", "issue": ""}
+{"id": "AN1-050", "answer": ["B", "C", "D"], "confidence": "high", "issue": ""}
+{"id": "AN1-051", "answer": ["A", "C"], "confidence": "high", "issue": ""}
+{"id": "AN1-052", "answer": ["A", "B", "D"], "confidence": "high", "issue": ""}
+{"id": "AN1-053", "answer": ["A", "B", "D"], "confidence": "high", "issue": ""}
+{"id": "AN1-054", "answer": ["B", "D"], "confidence": "medium", "issue": "B and D need leaders non-empty; 'Not all managers are leaders' alone does not assert leaders exist, so MSQ set debatable"}
+{"id": "AN1-055", "answer": 3, "confidence": "medium", "issue": "count depends on existential import for (iv); answer counts i, iv, v (iv needs edible things to exist)"}
+{"id": "AN1-056", "answer": 2, "confidence": "high", "issue": ""}
+{"id": "AN1-057", "answer": 4, "confidence": "medium", "issue": "(ii) needs violins non-empty; count assumes non-empty terms"}
+{"id": "AN1-058", "answer": 3, "confidence": "medium", "issue": "(ii) needs dancers non-empty; count assumes non-empty terms"}
+{"id": "AN1-059", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "AN1-060", "answer": "C", "confidence": "high", "issue": ""}

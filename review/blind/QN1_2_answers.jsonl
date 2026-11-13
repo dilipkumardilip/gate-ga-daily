@@ -1,0 +1,60 @@
+{"id": "QN1-061", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "QN1-062", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "QN1-063", "answer": "A", "confidence": "high", "issue": ""}
+{"id": "QN1-064", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "QN1-065", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "QN1-066", "answer": "A", "confidence": "high", "issue": ""}
+{"id": "QN1-067", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "QN1-068", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "QN1-069", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "QN1-070", "answer": 7, "confidence": "high", "issue": ""}
+{"id": "QN1-071", "answer": "A", "confidence": "high", "issue": ""}
+{"id": "QN1-072", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "QN1-073", "answer": "A", "confidence": "high", "issue": ""}
+{"id": "QN1-074", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "QN1-075", "answer": ["A", "B", "D"], "confidence": "high", "issue": ""}
+{"id": "QN1-076", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "QN1-077", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "QN1-078", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "QN1-079", "answer": "A", "confidence": "high", "issue": ""}
+{"id": "QN1-080", "answer": 20, "confidence": "high", "issue": ""}
+{"id": "QN1-081", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "QN1-082", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "QN1-083", "answer": "A", "confidence": "high", "issue": ""}
+{"id": "QN1-084", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "QN1-085", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "QN1-086", "answer": ["A", "B"], "confidence": "high", "issue": ""}
+{"id": "QN1-087", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "QN1-088", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "QN1-089", "answer": "A", "confidence": "high", "issue": ""}
+{"id": "QN1-090", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "QN1-091", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "QN1-092", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "QN1-093", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "QN1-094", "answer": 5, "confidence": "high", "issue": ""}
+{"id": "QN1-095", "answer": 10, "confidence": "high", "issue": ""}
+{"id": "QN1-096", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "QN1-097", "answer": "A", "confidence": "high", "issue": ""}
+{"id": "QN1-098", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "QN1-099", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "QN1-100", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "QN1-101", "answer": "A", "confidence": "high", "issue": ""}
+{"id": "QN1-102", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "QN1-103", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "QN1-104", "answer": ["A", "B"], "confidence": "high", "issue": ""}
+{"id": "QN1-105", "answer": "B", "confidence": "medium", "issue": "1.01^10=1.1046 is nearer 1.105 but options 1.100/1.105 are tight for estimation"}
+{"id": "QN1-106", "answer": "A", "confidence": "high", "issue": ""}
+{"id": "QN1-107", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "QN1-108", "answer": ["A", "B", "D"], "confidence": "high", "issue": ""}
+{"id": "QN1-109", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "QN1-110", "answer": "B", "confidence": "medium", "issue": "2^50 ops = 13.0 days; closest option 12 but 12 vs 13 close"}
+{"id": "QN1-111", "answer": "A", "confidence": "high", "issue": ""}
+{"id": "QN1-112", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "QN1-113", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "QN1-114", "answer": 90, "confidence": "high", "issue": ""}
+{"id": "QN1-115", "answer": 0.56, "confidence": "high", "issue": ""}
+{"id": "QN1-116", "answer": 2000, "confidence": "high", "issue": ""}
+{"id": "QN1-117", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "QN1-118", "answer": ["A", "B", "D"], "confidence": "high", "issue": ""}
+{"id": "QN1-119", "answer": "A", "confidence": "high", "issue": ""}
+{"id": "QN1-120", "answer": "C", "confidence": "high", "issue": ""}

@@ -1,0 +1,30 @@
+VB2 — Verbal (original GATE GA questions)
+count: 170
+
+topics: {'Vocabulary': 120, 'Word Analogy': 50}
+subtopics:
+  Vocabulary / confusable words: 18
+  Vocabulary / confusable words (MSQ): 2
+  Vocabulary / idioms and phrases: 13
+  Vocabulary / idioms and phrases (MSQ): 1
+  Vocabulary / most appropriate word in context: 21
+  Vocabulary / most appropriate word in context (MSQ): 2
+  Vocabulary / one-word substitution: 12
+  Vocabulary / ordering words by intensity: 7
+  Vocabulary / phrasal verbs: 12
+  Vocabulary / phrasal verbs (MSQ): 1
+  Vocabulary / synonyms and antonyms in context: 12
+  Vocabulary / synonyms and antonyms in context (MSQ): 2
+  Vocabulary / two-blank sentence completion: 3
+  Vocabulary / word meaning in context: 13
+  Vocabulary / word meaning in context (MSQ): 1
+  Word Analogy / intensity chain analogy: 12
+  Word Analogy / two-blank analogy: 6
+  Word Analogy / word pair analogy: 27
+  Word Analogy / word pair analogy (MSQ): 5
+difficulty: {1: 52, 2: 81, 3: 37}
+marks: {1: 97, 2: 73}
+type: {'MCQ': 156, 'MSQ': 14}
+MCQ answer letters: {'A': 40, 'B': 43, 'C': 37, 'D': 36}
+validate: 0 errors, 0 warnings (Verbal: no verify, per brief)
+STATUS: COMPLETE

@@ -1,0 +1,105 @@
+QN6 status — Quant (Geometry + Mensuration)
+count: 90 (ids QN6-001 .. QN6-090)
+validate: 0 errors, 0 warnings
+
+topics: Geometry 50, Mensuration 40
+
+subtopics:
+  Geometry | parallel lines, co-interior angles: 1
+  Geometry | parallel lines, bent transversal: 1
+  Geometry | exterior angle of triangle: 1
+  Geometry | triangle inequality, counting triangles: 1
+  Geometry | triangle inequality: 1
+  Geometry | obtuse triangle condition: 1
+  Geometry | similar triangles, shadow: 1
+  Geometry | basic proportionality theorem: 1
+  Geometry | area ratio, cevian and midpoint: 1
+  Geometry | similar triangles, equal-area cut: 1
+  Geometry | similar triangles, area ratio: 1
+  Geometry | Pythagoras, sliding ladder: 1
+  Geometry | Pythagorean triples: 1
+  Geometry | right triangle, altitude on hypotenuse: 1
+  Geometry | Heron's formula, altitude: 1
+  Geometry | chords, distance from centre: 1
+  Geometry | parallel chords, both cases: 1
+  Geometry | inscribed angle, major and minor arc: 1
+  Geometry | tangents from external point: 1
+  Geometry | tangent length, kite area: 1
+  Geometry | cyclic quadrilateral: 1
+  Geometry | tangent-chord angle, semicircle: 1
+  Geometry | intersecting circles, common chord: 1
+  Geometry | direct common tangent: 1
+  Geometry | regular polygon, diagonals: 1
+  Geometry | regular polygons, angle ratio: 1
+  Geometry | regular hexagon, area ratio: 1
+  Geometry | regular octagon from square: 1
+  Geometry | polygon interior angle sum: 1
+  Geometry | distance formula, type of triangle: 1
+  Geometry | section formula: 1
+  Geometry | perpendicular line, intercept: 1
+  Geometry | distance between parallel lines: 1
+  Geometry | area of triangle formed by lines: 1
+  Geometry | region |x|+|y|, part above a line: 1
+  Geometry | region |x−a|+|y−b| ≤ c: 1
+  Geometry | lattice points in |x|+|y| ≤ n: 1
+  Geometry | shoelace area of quadrilateral: 1
+  Geometry | collinearity: 1
+  Geometry | centroid and circumcentre: 1
+  Geometry | reflection in a line: 1
+  Geometry | angle between internal bisectors: 1
+  Geometry | angle between external bisectors: 1
+  Geometry | similar triangles in rectangle: 1
+  Geometry | trapezium, diagonal area ratios: 1
+  Geometry | centroid, midline area: 1
+  Geometry | region bounded by lines (first quadrant): 1
+  Geometry | Pythagorean triples recognition: 1
+  Geometry | perpendicular lines, slopes: 1
+  Geometry | region between y=|x| and y=c−|x|: 1
+  Mensuration | composite figure: rectangle + semicircles: 1
+  Mensuration | shaded region: square minus quarter circles: 1
+  Mensuration | annulus (circular path): 1
+  Mensuration | wire re-bent: square to circle: 1
+  Mensuration | sector perimeter: 1
+  Mensuration | segment area: 1
+  Mensuration | shaded region: leaf of two quarter circles: 1
+  Mensuration | shaded region: arbelos: 1
+  Mensuration | circle minus inscribed square: 1
+  Mensuration | incircle of equilateral triangle: 1
+  Mensuration | tight band around touching circles: 1
+  Mensuration | rhombus, height from diagonals: 1
+  Mensuration | trapezium from four sides: 1
+  Mensuration | rectangle, compensating percentage change: 1
+  Mensuration | cube, diagonal and surface area: 1
+  Mensuration | cuboid, ratio and surface area: 1
+  Mensuration | cuboid from face areas: 1
+  Mensuration | cylinder volume from CSA: 1
+  Mensuration | cone volume from slant height: 1
+  Mensuration | sphere, surface area to volume: 1
+  Mensuration | hemisphere total surface area: 1
+  Mensuration | melting: sphere into wire: 1
+  Mensuration | recasting: change in surface area: 1
+  Mensuration | recasting: cone into cylinder: 1
+  Mensuration | water level rise: marbles in cylinder: 1
+  Mensuration | flow through channel, irrigation: 1
+  Mensuration | composite solid: cone on hemisphere: 1
+  Mensuration | cone cut parallel to base (frustum): 1
+  Mensuration | percentage change in cone volume: 1
+  Mensuration | cylinder, cone, hemisphere volume ratio: 1
+  Mensuration | largest sphere in a cube: 1
+  Mensuration | longest rod in a room (space diagonal): 1
+  Mensuration | rainwater into cylinder: 1
+  Mensuration | water level with partly submerged cube: 1
+  Mensuration | sector rolled into cone: 1
+  Mensuration | semicircle perimeter: 1
+  Mensuration | cylinder scaling, doubling volume: 1
+  Mensuration | comparing volumes of solids: 1
+  Mensuration | cuboid walls, painting cost: 1
+  Mensuration | hollow cylinder (pipe) volume: 1
+
+difficulty: 1=25, 2=43, 3=22
+marks: 1-mark=42, 2-mark=48
+type: MCQ=75, MSQ=7, NAT=8
+MCQ answer letters: A=19, B=19, C=19, D=18
+figures: QN6-002, QN6-052, QN6-057, QN6-058, QN6-061 (site/img/q/*.svg, review/figs/*.png checked)
+
+STATUS: COMPLETE

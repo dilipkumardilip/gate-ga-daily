@@ -1,0 +1,88 @@
+QN7 - Quant / Data Interpretation (original, GATE GA style)
+Count: 90 questions (QN7-001 .. QN7-090) in 35 data-set groups (QN7-G01 .. QN7-G35), 2-3 questions per group; each question repeats its full chart/table.
+Data sets: bar 8, groupbar 7, stackbar 3, line 6, pie 5 (4 in %, 1 in degrees), HTML table 6 (incl. two-way furniture table, tea/coffee survey caselet, train timetable, frequency table).
+Topic: Data Interpretation 90
+Subtopics:
+  share of total: 4
+  percentage change: 3
+  statement check: 3
+  average: 2
+  count above average: 2
+  combined series growth: 2
+  weighted average ranking: 2
+  largest share: 2
+  percentage to degrees: 2
+  highest growth year: 1
+  ratio: 1
+  weighted growth: 1
+  slab tariff total: 1
+  count years with growth ≥ 20%: 1
+  median: 1
+  bar to pie angle: 1
+  revenue from two price periods: 1
+  largest percentage change: 1
+  rates from times: 1
+  combined work rate: 1
+  ratio between series: 1
+  years exceeding by 30%: 1
+  count years ratio ≥ 0.9: 1
+  percentage points: 1
+  count at least 10% more: 1
+  difference of averages: 1
+  revenue comparison: 1
+  ratio of totals: 1
+  percentage more: 1
+  weighted share: 1
+  target share: 1
+  running stock: 1
+  running stock maximum: 1
+  years ratio exceeds 0.9: 1
+  margin percentage: 1
+  share within group: 1
+  growth of stacked total: 1
+  profit percentage: 1
+  effect of cost rise on profit: 1
+  largest percentage rise: 1
+  average price with equal spend: 1
+  highest growth period: 1
+  years ratio ≥ 1.2: 1
+  average speed from cumulative graph: 1
+  slope of cumulative graph: 1
+  count months: 1
+  aggregate profit percentage: 1
+  weighted percentage: 1
+  percentage points to counts: 1
+  percent vs count: 1
+  average as share: 1
+  derived series change: 1
+  re-allocation after income change: 1
+  transfer between sectors: 1
+  degrees to count: 1
+  pie with ratio split: 1
+  percentage more from angles: 1
+  share after total changes: 1
+  share times price: 1
+  percentage to amount to mass: 1
+  pie with conversion factors: 1
+  pie scale from one sector: 1
+  pie to unit price: 1
+  INCORRECT statement: 1
+  revenue from two-way table: 1
+  two-way table share: 1
+  conditional percentage: 1
+  two-way table count: 1
+  speed from timetable: 1
+  speed change and arrival time: 1
+  cumulative share: 1
+  grouped mean: 1
+  highest ratio year: 1
+  aggregate percentage: 1
+  weighted average rate: 1
+  weighted average after change: 1
+  derived quantity comparison: 1
+Difficulty: {1: 29, 2: 39, 3: 22} (32% / 43% / 24%)
+Marks: {1: 42, 2: 48} (47% 1-mark / 53% 2-mark)
+Type: {'MCQ': 75, 'NAT': 8, 'MSQ': 7} (MCQ 83%, MSQ 8%, NAT 9%)
+MCQ answer letters: {'A': 18, 'B': 19, 'C': 19, 'D': 19}
+Validation: tools/validate.py bank/QN7.jsonl -> 0 errors, 0 warnings; every item has verify code computing from the chart/table arrays.
+STATUS: COMPLETE

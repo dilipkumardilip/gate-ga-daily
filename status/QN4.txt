@@ -1,0 +1,114 @@
+QN4 - Quant - 100 questions (QN4-001 .. QN4-100)
+
+Topics:
+  Speed, Time & Distance: 55
+  Time & Work: 45
+
+Subtopics:
+  [Speed, Time & Distance] average speed (equal distances): 1
+  [Speed, Time & Distance] average speed with halt: 1
+  [Speed, Time & Distance] required speed for target average: 1
+  [Speed, Time & Distance] average speed (unequal legs): 1
+  [Speed, Time & Distance] uphill-flat-downhill road: 1
+  [Speed, Time & Distance] two speeds, total time given: 1
+  [Speed, Time & Distance] average speed properties: 1
+  [Speed, Time & Distance] meeting (towards each other): 1
+  [Speed, Time & Distance] staggered start, towards each other: 1
+  [Speed, Time & Distance] chase with time head start: 1
+  [Speed, Time & Distance] same vs opposite direction meeting: 1
+  [Speed, Time & Distance] times after meeting: 1
+  [Speed, Time & Distance] gap just before meeting: 1
+  [Speed, Time & Distance] three walkers, overtaking: 1
+  [Speed, Time & Distance] late and early: 1
+  [Speed, Time & Distance] unit conversion m/s to km/h: 1
+  [Speed, Time & Distance] reduced speed, late arrival: 1
+  [Speed, Time & Distance] speed-time profile, distance: 1
+  [Speed, Time & Distance] distance-time table: 1
+  [Speed, Time & Distance] speed up, time saved (%): 1
+  [Speed, Time & Distance] train passing a pole: 1
+  [Speed, Time & Distance] train crossing a platform: 1
+  [Speed, Time & Distance] same train, two objects (change method): 1
+  [Speed, Time & Distance] train passing walkers both directions: 1
+  [Speed, Time & Distance] two trains, opposite directions: 1
+  [Speed, Time & Distance] passenger in another train: 1
+  [Speed, Time & Distance] equal trains, same and opposite: 1
+  [Speed, Time & Distance] train overtaking two walkers: 1
+  [Speed, Time & Distance] train wholly inside a tunnel: 1
+  [Speed, Time & Distance] train crossings (statements): 1
+  [Speed, Time & Distance] stream speed from times: 1
+  [Speed, Time & Distance] round trip on a river (statements): 1
+  [Speed, Time & Distance] time ratio → round-trip average: 1
+  [Speed, Time & Distance] upstream takes longer by t: 1
+  [Speed, Time & Distance] floating log (frame of the water): 1
+  [Speed, Time & Distance] still-water speed from Sd, Su: 1
+  [Speed, Time & Distance] boat speed reduced: 1
+  [Speed, Time & Distance] circular track, first meeting (same direction): 1
+  [Speed, Time & Distance] circular track, distinct meeting points: 1
+  [Speed, Time & Distance] three runners, all meet: 1
+  [Speed, Time & Distance] circular track, number of meetings: 1
+  [Speed, Time & Distance] circular track, first meeting at the start: 1
+  [Speed, Time & Distance] race: beats by distance: 1
+  [Speed, Time & Distance] race: chained margins: 1
+  [Speed, Time & Distance] race: beats by distance or time: 1
+  [Speed, Time & Distance] race: head starts: 1
+  [Speed, Time & Distance] race: late start: 1
+  [Speed, Time & Distance] escalator: counting steps: 1
+  [Speed, Time & Distance] escalator: walking on a moving escalator: 1
+  [Speed, Time & Distance] escalator: walking against it: 1
+  [Speed, Time & Distance] unit conversion: wheel revolutions: 1
+  [Speed, Time & Distance] moving apart: 1
+  [Speed, Time & Distance] to and fro at two speeds: 1
+  [Speed, Time & Distance] buses overtaking/meeting a walker: 1
+  [Speed, Time & Distance] speed increase saves time: 1
+  [Time & Work] two workers together: 1
+  [Time & Work] find one rate from combined: 1
+  [Time & Work] one worker leaves: 1
+  [Time & Work] efficiency percentage: 1
+  [Time & Work] pairs of workers: 1
+  [Time & Work] worker leaves before completion: 1
+  [Time & Work] alternate days (two workers): 1
+  [Time & Work] three workers in rotation: 1
+  [Time & Work] man-days-hours: 2
+  [Time & Work] MDH with different job size: 1
+  [Time & Work] men and women equivalence: 1
+  [Time & Work] leak from fill times: 1
+  [Time & Work] two inlets and an outlet: 1
+  [Time & Work] pipe closed partway: 1
+  [Time & Work] pipes opened alternately: 1
+  [Time & Work] inlet and outlet, partly full: 1
+  [Time & Work] wages: helper's share: 1
+  [Time & Work] wages when one leaves early: 1
+  [Time & Work] men inversely proportional to days: 1
+  [Time & Work] rates from partial work: 1
+  [Time & Work] time difference and combined time: 1
+  [Time & Work] second worker joins: 1
+  [Time & Work] one worker joins each day: 1
+  [Time & Work] workers leave midway: 1
+  [Time & Work] extra workers to meet deadline: 1
+  [Time & Work] pipes (statements): 1
+  [Time & Work] efficiency and time difference: 1
+  [Time & Work] together then one finishes: 1
+  [Time & Work] fill and drain, partly full: 1
+  [Time & Work] leak develops midway: 1
+  [Time & Work] wages in ratio of efficiency: 1
+  [Time & Work] wages with efficiency percent: 1
+  [Time & Work] fraction of work done: 1
+  [Time & Work] chain of efficiencies: 1
+  [Time & Work] men and boys: 1
+  [Time & Work] LCM method (statements): 1
+  [Time & Work] MDH (statements): 1
+  [Time & Work] pipes opened at different times: 1
+  [Time & Work] capacity from outlet rate: 1
+  [Time & Work] two workers leave at different times: 1
+  [Time & Work] scaling people and time: 1
+  [Time & Work] percent less time: 1
+  [Time & Work] alternating inlets with a leak: 1
+  [Time & Work] workers join midway: 1
+
+Difficulty 1/2/3: 29/47/24
+Marks 1/2: 48/52
+Type MCQ/MSQ/NAT: 83/7/10
+MCQ answer letters: {'A': 20, 'B': 21, 'C': 21, 'D': 21}
+Validator: 0 errors, 0 warnings; every item has verify code (simulation / brute force where possible).
+
+STATUS: COMPLETE

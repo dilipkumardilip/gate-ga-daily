@@ -1,0 +1,97 @@
+{"id": "AN1-035", "key": "C", "solver": "D", "confidence": "high", "issue": "", "kind": "mismatch"}
+{"id": "AN2-080", "key": "A", "solver": "B", "confidence": "high", "issue": "", "kind": "mismatch"}
+{"id": "QN2-091", "key": ["A", "D"], "solver": ["A", "B", "D"], "confidence": "high", "issue": "", "kind": "mismatch"}
+{"id": "QN5-086", "key": ["A", "B"], "solver": "A", "confidence": "high", "issue": "", "kind": "mismatch"}
+{"id": "QN7-018", "key": "B", "solver": "D", "confidence": "high", "issue": "", "kind": "mismatch"}
+{"id": "VB1-168", "key": "A", "solver": "C", "confidence": "high", "issue": "", "kind": "mismatch"}
+{"id": "VB2-024", "key": "B", "solver": "C", "confidence": "high", "issue": "", "kind": "mismatch"}
+{"id": "VB3-095", "key": ["A", "D"], "solver": ["A", "B", "D"], "confidence": "high", "issue": "", "kind": "mismatch"}
+{"id": "VB3-102", "key": "D", "solver": "A", "confidence": "high", "issue": "", "kind": "mismatch"}
+{"id": "VB3-145", "key": "B", "solver": "A", "confidence": "high", "issue": "", "kind": "mismatch"}
+{"id": "AN1-002", "key": "A", "solver": "A", "confidence": "medium", "issue": "depends on existential import (needs a term assumed non-empty); under possibly-empty sets the key differs", "kind": "flag"}
+{"id": "AN1-006", "key": "C", "solver": "C", "confidence": "medium", "issue": "CII needs doctors non-empty; depends on existential import (needs a term assumed non-empty); under possibly-empty sets the key differs", "kind": "flag"}
+{"id": "AN1-013", "key": "C", "solver": "C", "confidence": "medium", "issue": "CI needs painters non-empty; depends on existential import (needs a term assumed non-empty); under possibly-empty sets the key differs", "kind": "flag"}
+{"id": "AN1-014", "key": "B", "solver": "B", "confidence": "medium", "issue": "CII needs vegetables non-empty; depends on existential import (needs a term assumed non-empty); under possibly-empty sets the key differs", "kind": "flag"}
+{"id": "AN1-018", "key": "A", "solver": "A", "confidence": "high", "issue": "CI is a restatement of S1 (trivially easy)", "kind": "flag"}
+{"id": "AN1-023", "key": "A", "solver": "A", "confidence": "medium", "issue": "CIII needs mangoes non-empty; depends on existential import (needs a term assumed non-empty); under possibly-empty sets the key differs", "kind": "flag"}
+{"id": "AN1-024", "key": "D", "solver": "D", "confidence": "medium", "issue": "CI/CIII rely on non-empty terms; depends on existential import (needs a term assumed non-empty); under possibly-empty sets the key differs", "kind": "flag"}
+{"id": "AN1-026", "key": "B", "solver": "B", "confidence": "medium", "issue": "complex either/or option wording; I/III/IV rely on existential import", "kind": "flag"}
+{"id": "AN1-032", "key": "D", "solver": "D", "confidence": "medium", "issue": "CI/CII need non-empty pencils; depends on existential import (needs a term assumed non-empty); under possibly-empty sets the key differs", "kind": "flag"}
+{"id": "AN1-038", "key": "B", "solver": "B", "confidence": "medium", "issue": "CII needs rocks/stones non-empty; depends on existential import (needs a term assumed non-empty); under possibly-empty sets the key differs", "kind": "flag"}
+{"id": "AN1-040", "key": "A", "solver": "A", "confidence": "medium", "issue": "CI/CII need non-empty terms; depends on existential import (needs a term assumed non-empty); under possibly-empty sets the key differs", "kind": "flag"}
+{"id": "AN1-046", "key": "A", "solver": "A", "confidence": "medium", "issue": "CI possibility only holds if fish assumed non-empty; depends on existential import (needs a term assumed non-empty); under possibly-empty sets the key differs", "kind": "flag"}
+{"id": "AN1-054", "key": ["B", "D"], "solver": ["B", "D"], "confidence": "medium", "issue": "B and D need leaders non-empty; 'Not all managers are leaders' alone does not assert leaders exist, so MSQ set debatable", "kind": "flag"}
+{"id": "AN1-055", "key": {"min": 3, "max": 3}, "solver": 3, "confidence": "medium", "issue": "count depends on existential import for (iv); answer counts i, iv, v (iv needs edible things to exist)", "kind": "flag"}
+{"id": "AN1-057", "key": {"min": 4, "max": 4}, "solver": 4, "confidence": "medium", "issue": "(ii) needs violins non-empty; count assumes non-empty terms", "kind": "flag"}
+{"id": "AN1-058", "key": {"min": 3, "max": 3}, "solver": 3, "confidence": "medium", "issue": "(ii) needs dancers non-empty; count assumes non-empty terms", "kind": "flag"}
+{"id": "AN1-083", "key": "A", "solver": "A", "confidence": "medium", "issue": "option D ('only if it does not rain') is also true under the biconditional reading of 'unless'", "kind": "flag"}
+{"id": "AN1-097", "key": "C", "solver": "C", "confidence": "medium", "issue": "option B depends on 'unless' read as one-way implication; under iff reading B would also be non-equivalent, C still clearly non-equivalent", "kind": "flag"}
+{"id": "AN1-158", "key": "B", "solver": "B", "confidence": "medium", "issue": "option D is not strictly entailed (policy gives sufficient conditions only) but could be read as intended by some; B is the only strictly necessary one", "kind": "flag"}
+{"id": "AN2-006", "key": "C", "solver": "C", "confidence": "medium", "issue": "'J scored less than only O' is awkwardly worded (read as: only O scored more than J)", "kind": "flag"}
+{"id": "AN2-010", "key": "C", "solver": "C", "confidence": "medium", "issue": "'right' in a row with mixed facing directions is ambiguous; answer stands under east-is-right reading (two valid configurations, same answer)", "kind": "flag"}
+{"id": "AN2-012", "key": "C", "solver": "C", "confidence": "medium", "issue": "Q's facing direction not given but answer is still unique", "kind": "flag"}
+{"id": "AN2-043", "key": "C", "solver": "C", "confidence": "medium", "issue": "option wording with 'or' makes it weak; C holds in both valid configurations but A/D differ across configurations", "kind": "flag"}
+{"id": "AN2-057", "key": "B", "solver": "B", "confidence": "high", "issue": "assumes someone rows the boat back each time; fine but trivial", "kind": "flag"}
+{"id": "AN2-085", "key": {"min": 14.42, "max": 14.43}, "solver": 14.42, "confidence": "medium", "issue": "answer is sqrt(208)=14.42, irrational and messy for a no-calculator exam", "kind": "flag"}
+{"id": "AN2-102", "key": ["A", "B"], "solver": ["A", "B"], "confidence": "medium", "issue": "'siblings' could be half-siblings and Q's gender is unstated; A relies on full siblings", "kind": "flag"}
+{"id": "AN2-109", "key": ["A", "B", "C"], "solver": ["A", "B", "C"], "confidence": "medium", "issue": "D ('only grandson') is undetermined since Tara may have children; debatable whether counted false", "kind": "flag"}
+{"id": "AN2-111", "key": "C", "solver": "C", "confidence": "high", "issue": "B and A options depend on gender of B; fine", "kind": "flag"}
+{"id": "AN2-115", "key": ["A", "B", "C"], "solver": ["A", "B", "C"], "confidence": "medium", "issue": "B assumes B and C are full sisters (same parents); D undetermined", "kind": "flag"}
+{"id": "AN2-158", "key": {"min": 27.27, "max": 27.28}, "solver": 27.27, "confidence": "medium", "issue": "NAT needs two-decimal precision 27.27 (300/11); tolerance should be stated", "kind": "flag"}
+{"id": "QN1-044", "key": {"min": 0, "max": 0}, "solver": 0, "confidence": "high", "issue": "n! never has exactly 30 trailing zeros (28 then 31); answer 0 is a trick, check key", "kind": "flag"}
+{"id": "QN1-105", "key": "B", "solver": "B", "confidence": "medium", "issue": "1.01^10=1.1046 is nearer 1.105 but options 1.100/1.105 are tight for estimation", "kind": "flag"}
+{"id": "QN1-110", "key": "B", "solver": "B", "confidence": "medium", "issue": "2^50 ops = 13.0 days; closest option 12 but 12 vs 13 close", "kind": "flag"}
+{"id": "QN3-035", "key": ["A", "C"], "solver": ["A", "C"], "confidence": "medium", "issue": "B is wrong only because it is 12% of valid not of votes cast (11.76%); subtle", "kind": "flag"}
+{"id": "QN3-062", "key": ["A", "C", "D"], "solver": ["A", "C", "D"], "confidence": "medium", "issue": "C: half-yearly exceeds annual by 55.06, close to the 50 threshold; needs calculator-ish work", "kind": "flag"}
+{"id": "QN3-069", "key": ["A", "B", "D"], "solver": ["A", "B", "D"], "confidence": "medium", "issue": "B depends on 47.06% > 45% - borderline numerics", "kind": "flag"}
+{"id": "QN3-114", "key": ["A", "D"], "solver": ["A", "D"], "confidence": "medium", "issue": "C: removing largest gives avg <=20, equal if all numbers equal; so not 'must'", "kind": "flag"}
+{"id": "QN4-047", "key": {"min": 62.5, "max": 62.5}, "solver": 62.5, "confidence": "medium", "issue": "\"how far behind P\" assumed measured along track at the moment P finishes", "kind": "flag"}
+{"id": "QN4-093", "key": ["A", "C"], "solver": ["A", "C"], "confidence": "medium", "issue": "Option A finishes in exactly 10 days; correct only if \"within\" is read as inclusive", "kind": "flag"}
+{"id": "QN7-042", "key": ["A", "C"], "solver": ["A", "C"], "confidence": "medium", "issue": "D: in 2023 North ties with South and East at 45; 'highest' for a tie is debatable (I treated D as false)", "kind": "flag"}
+{"id": "SP1-011", "key": "D", "solver": "D", "confidence": "high", "issue": "figure is identical to SP1-010 (same three views); fine but repetitive if both appear in one test", "kind": "flag"}
+{"id": "SP1-016", "key": "C", "solver": "C", "confidence": "high", "issue": "option C fails only on handedness (cyclic order of U,T,S), which is subtle for a candidate; still uniquely determined", "kind": "flag"}
+{"id": "SP1-022", "key": "B", "solver": "B", "confidence": "high", "issue": "same three views as SP1-010/011", "kind": "flag"}
+{"id": "SP1-044", "key": ["A", "B", "D"], "solver": ["A", "B", "D"], "confidence": "medium", "issue": "option D wording: the oblique shadow is bounded by two parallel segments and two half-ellipse arcs; acceptable but 'curved arcs' is loose", "kind": "flag"}
+{"id": "SP1-045", "key": {"min": 34, "max": 34}, "solver": 34, "confidence": "medium", "issue": "isometric figure must be read carefully; heights read as back row 3,2,1 and front row 2,1,1 (10 cubes)", "kind": "flag"}
+{"id": "SP2-003", "key": "B", "solver": "B", "confidence": "high", "issue": "options A/B/D differ only in hole spacing (a few pixels); solver must measure distances carefully", "kind": "flag"}
+{"id": "SP2-005", "key": {"min": 20, "max": 20}, "solver": 20, "confidence": "high", "issue": "figure (III): the arrow for the third fold points straight down along the dashed vertical fold line instead of across it (right-to-left), so it contradicts/obscures the stated fold direction", "kind": "flag"}
+{"id": "SP2-007", "key": "B", "solver": "B", "confidence": "high", "issue": "A vs B differ only in rectangle orientation; the cut rectangle in figure III is tiny, needs zoom to judge its aspect ratio", "kind": "flag"}
+{"id": "SP2-042", "key": {"min": 36, "max": 36}, "solver": 36, "confidence": "high", "issue": "rotation and reflection steps are irrelevant to area; trivial for 1 mark is fine", "kind": "flag"}
+{"id": "SP2-050", "key": "C", "solver": "C", "confidence": "medium", "issue": "figure and option grids are very small (128x89 and 139x139 px with ~6 px cells); grid squares are hard to count without zooming — re-render larger", "kind": "flag"}
+{"id": "VB1-023", "key": "B", "solver": "B", "confidence": "medium", "issue": "'had travelled'/'would travel' marginal; universal truth keeps present, but 'travelled' not impossible", "kind": "flag"}
+{"id": "VB1-028", "key": "D", "solver": "D", "confidence": "medium", "issue": "'an M.Tech' / 'an IAS' both rely on letter-name pronunciation; trap-like but standard", "kind": "flag"}
+{"id": "VB1-048", "key": "B", "solver": "B", "confidence": "medium", "issue": "'agree to your proposal' (B) is idiomatic; 'agree with your proposal' (C) is also acceptable, and 'agree in most points' is weaker than 'on'; B best", "kind": "flag"}
+{"id": "VB1-057", "key": ["A", "D"], "solver": ["A", "D"], "confidence": "medium", "issue": "(B) 'nor the players was' follows proximity rule -> should be 'were'; treated as incorrect", "kind": "flag"}
+{"id": "VB1-065", "key": "B", "solver": "B", "confidence": "medium", "issue": "Relative-clause agreement: 'one of those engineers who have' vs 'the only one who has' - standard but advanced", "kind": "flag"}
+{"id": "VB1-066", "key": "B", "solver": "B", "confidence": "medium", "issue": "'Bread and butter' as a single dish takes singular (B); plural 'are' defensible if read as two items", "kind": "flag"}
+{"id": "VB1-068", "key": "D", "solver": "D", "confidence": "medium", "issue": "'jury has' - collective noun; 'jury have' is acceptable in British usage, but option (A)/(B) also fail elsewhere", "kind": "flag"}
+{"id": "VB1-072", "key": ["B", "C"], "solver": ["B", "C"], "confidence": "medium", "issue": "(A) 'More than one candidate were' is wrong by standard rule (singular verb); (C) 'police have' correct", "kind": "flag"}
+{"id": "VB1-090", "key": ["B", "D"], "solver": ["B", "D"], "confidence": "medium", "issue": "(C) 'elder ... than' is non-standard (elder takes 'to'); (B) 'senior to me by three years' acceptable", "kind": "flag"}
+{"id": "VB1-106", "key": "B", "solver": "B", "confidence": "medium", "issue": "'must' (A) vs 'can't' (B): evidence 'bag on desk' means she has NOT left, so can't have left; slightly tricky", "kind": "flag"}
+{"id": "VB1-111", "key": "A", "solver": "A", "confidence": "medium", "issue": "'should' and 'ought to' both fit but only 'ought' works with the given 'to'; 'had better' also needs bare infinitive", "kind": "flag"}
+{"id": "VB1-125", "key": "C", "solver": "C", "confidence": "medium", "issue": "'Nobody ... did they' follows rule; 'didn't he' not standard", "kind": "flag"}
+{"id": "VB1-128", "key": "C", "solver": "C", "confidence": "medium", "issue": "negative adverb 'hardly ever' takes positive tag 'does he' (standard rule)", "kind": "flag"}
+{"id": "VB1-129", "key": "A", "solver": "A", "confidence": "medium", "issue": "Imperative tag 'will you' (also 'won't you'/'would you') - 'will you' only option here", "kind": "flag"}
+{"id": "VB1-130", "key": ["B", "C"], "solver": ["B", "C"], "confidence": "medium", "issue": "(C) 'Neither of them ... did they' acceptable; (A),(D) clearly wrong", "kind": "flag"}
+{"id": "VB1-148", "key": "B", "solver": "B", "confidence": "medium", "issue": "'neither of the two ... were' is common/accepted in informal usage; strict grammar wants 'was', so (B) is the intended error; plural defensible", "kind": "flag"}
+{"id": "VB1-157", "key": ["A", "B", "D"], "solver": ["A", "B", "D"], "confidence": "medium", "issue": "(C) 'cattle is' is wrong (cattle is plural); (A),(B),(D) acceptable ('committee has' allows 'have' too)", "kind": "flag"}
+{"id": "VB1-158", "key": "D", "solver": "D", "confidence": "medium", "issue": "(D) 'taller than all the boys in the class' includes Arjun himself - logically defective; intended answer, but subtle", "kind": "flag"}
+{"id": "VB1-163", "key": "A", "solver": "A", "confidence": "medium", "issue": "'but' in blank (iii) is semantically weak (contrast not obvious), but other options fail on tense/agreement", "kind": "flag"}
+{"id": "VB2-007", "key": "B", "solver": "B", "confidence": "medium", "issue": "stingily also fits 'spent almost nothing' (though negative connotation); frugally intended", "kind": "flag"}
+{"id": "VB2-023", "key": "D", "solver": "D", "confidence": "medium", "issue": "A: 'usually generous... surprisingly lavish' - lavish praise fits, but 'surprisingly' contrast requires opposite of usual; D intended", "kind": "flag"}
+{"id": "VB2-031", "key": ["A", "D"], "solver": ["A", "D"], "confidence": "high", "issue": "compensate is not a synonym of placate", "kind": "flag"}
+{"id": "VB2-050", "key": ["B", "D"], "solver": ["B", "D"], "confidence": "high", "issue": "candid is not antonym; 'open' is synonym", "kind": "flag"}
+{"id": "VB2-070", "key": "B", "solver": "B", "confidence": "medium", "issue": "stem is awkward: 'approved it later that week' - later is slightly odd but only workable option", "kind": "flag"}
+{"id": "VB2-079", "key": "C", "solver": "C", "confidence": "medium", "issue": "'every now and then' arguably fits less, but 'once in a blue moon' vs 'three years ago' is best; fine", "kind": "flag"}
+{"id": "VB2-104", "key": "A", "solver": "A", "confidence": "medium", "issue": "oligarchy (rule by a few) is partly defensible; plutocracy is the precise answer", "kind": "flag"}
+{"id": "VB2-108", "key": "B", "solver": "B", "confidence": "medium", "issue": "amateur is loosely defensible (not professional) but novice is the best", "kind": "flag"}
+{"id": "VB2-117", "key": "A", "solver": "A", "confidence": "medium", "issue": "amble vs walk ordering is subjective (amble is slow walk); ok", "kind": "flag"}
+{"id": "VB2-136", "key": "D", "solver": "D", "confidence": "medium", "issue": "Brush : Painter and Plough : Farmer reverse order; Doctor:Hospital is place; Surgeon:Scalpel only match", "kind": "flag"}
+{"id": "VB2-141", "key": "D", "solver": "D", "confidence": "medium", "issue": "'Negligence : Accident' (cause:effect) vs Practice : proficiency; rehearsal is a distractor synonym; relationship is loose", "kind": "flag"}
+{"id": "VB2-144", "key": "B", "solver": "B", "confidence": "medium", "issue": "Mechanic:Engine also arguably defensible (works on); Pilot:Aircraft is operator:vehicle, best match", "kind": "flag"}
+{"id": "VB2-163", "key": "B", "solver": "B", "confidence": "high", "issue": "Painter : Brush also looks like a tool pair but order reversed; B only", "kind": "flag"}
+{"id": "VB2-166", "key": ["A", "C"], "solver": ["A", "C"], "confidence": "high", "issue": "D (Teetotaller : Alcohol) is avoidance not consumption; A,C only", "kind": "flag"}
+{"id": "VB2-167", "key": ["B", "D"], "solver": ["B", "D"], "confidence": "medium", "issue": "A (Cartographer : Maps) is debatable: cartographer makes maps rather than studies them; key likely B,D", "kind": "flag"}
+{"id": "VB3-072", "key": "A", "solver": "A", "confidence": "medium", "issue": "II does not strictly follow: 'not postponed' could mean cancelled/not played on Saturday", "kind": "flag"}
+{"id": "VB3-103", "key": "D", "solver": "D", "confidence": "medium", "issue": "Pooja being selected does not state she was called for interview (selection process not specified); intended 'neither' relies on strict logic", "kind": "flag"}
+{"id": "VB3-136", "key": "C", "solver": "C", "confidence": "medium", "issue": "B (RQPS) is also defensible: eggs could appear before the nest is 'complete'", "kind": "flag"}

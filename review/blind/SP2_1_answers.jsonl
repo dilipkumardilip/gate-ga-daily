@@ -1,0 +1,50 @@
+{"id": "SP2-001", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "SP2-002", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "SP2-003", "answer": "B", "confidence": "high", "issue": "options A/B/D differ only in hole spacing (a few pixels); solver must measure distances carefully"}
+{"id": "SP2-004", "answer": "A", "confidence": "high", "issue": ""}
+{"id": "SP2-005", "answer": 20, "confidence": "high", "issue": "figure (III): the arrow for the third fold points straight down along the dashed vertical fold line instead of across it (right-to-left), so it contradicts/obscures the stated fold direction"}
+{"id": "SP2-006", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "SP2-007", "answer": "B", "confidence": "high", "issue": "A vs B differ only in rectangle orientation; the cut rectangle in figure III is tiny, needs zoom to judge its aspect ratio"}
+{"id": "SP2-008", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "SP2-009", "answer": "A", "confidence": "high", "issue": ""}
+{"id": "SP2-010", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "SP2-011", "answer": 5, "confidence": "high", "issue": ""}
+{"id": "SP2-012", "answer": "A", "confidence": "high", "issue": ""}
+{"id": "SP2-013", "answer": ["A","B"], "confidence": "high", "issue": ""}
+{"id": "SP2-014", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "SP2-015", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "SP2-016", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "SP2-017", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "SP2-018", "answer": "A", "confidence": "high", "issue": ""}
+{"id": "SP2-019", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "SP2-020", "answer": "A", "confidence": "high", "issue": ""}
+{"id": "SP2-021", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "SP2-022", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "SP2-023", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "SP2-024", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "SP2-025", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "SP2-026", "answer": ["B","C"], "confidence": "high", "issue": ""}
+{"id": "SP2-027", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "SP2-028", "answer": "A", "confidence": "high", "issue": ""}
+{"id": "SP2-029", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "SP2-030", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "SP2-031", "answer": "A", "confidence": "high", "issue": ""}
+{"id": "SP2-032", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "SP2-033", "answer": 4, "confidence": "high", "issue": ""}
+{"id": "SP2-034", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "SP2-035", "answer": "A", "confidence": "high", "issue": ""}
+{"id": "SP2-036", "answer": ["A","B"], "confidence": "high", "issue": ""}
+{"id": "SP2-037", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "SP2-038", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "SP2-039", "answer": "A", "confidence": "high", "issue": ""}
+{"id": "SP2-040", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "SP2-041", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "SP2-042", "answer": 36, "confidence": "high", "issue": "rotation and reflection steps are irrelevant to area; trivial for 1 mark is fine"}
+{"id": "SP2-043", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "SP2-044", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "SP2-045", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "SP2-046", "answer": ["A","B","C"], "confidence": "high", "issue": ""}
+{"id": "SP2-047", "answer": "A", "confidence": "high", "issue": ""}
+{"id": "SP2-048", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "SP2-049", "answer": 16, "confidence": "high", "issue": ""}
+{"id": "SP2-050", "answer": "C", "confidence": "medium", "issue": "figure and option grids are very small (128x89 and 139x139 px with ~6 px cells); grid squares are hard to count without zooming — re-render larger"}

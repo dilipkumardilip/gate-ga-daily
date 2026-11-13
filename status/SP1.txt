@@ -1,0 +1,67 @@
+SP1 - Spatial - 50 questions (bank/SP1.jsonl)
+
+Topics:
+  Cubes & Dice: 22
+  Counting Figures: 14
+  Patterns & Projections: 14
+
+Subtopics:
+  Cubes & Dice / painted cube - one face: 1
+  Cubes & Dice / painted cuboid - two faces: 1
+  Cubes & Dice / partly painted cube: 1
+  Cubes & Dice / painted cube - reverse: 1
+  Cubes & Dice / cube with three colours: 1
+  Cubes & Dice / painted cuboid - at least one face: 1
+  Cubes & Dice / painted cube - equation: 1
+  Cubes & Dice / cube with tunnels - painted faces: 1
+  Cubes & Dice / die - two views, opposite face: 1
+  Cubes & Dice / die - three views, opposite face: 1
+  Cubes & Dice / die - orientation (handedness): 1
+  Cubes & Dice / standard die - orientation: 1
+  Cubes & Dice / rolling a die: 1
+  Cubes & Dice / stacked dice - hidden faces: 1
+  Cubes & Dice / die - impossible view (opposite faces): 1
+  Cubes & Dice / die - impossible view (mirror image): 1
+  Cubes & Dice / die - statements (MSQ): 1
+  Cubes & Dice / cube net - opposite face: 1
+  Cubes & Dice / cube nets - which cannot fold: 1
+  Cubes & Dice / cube nets - which fold (MSQ): 1
+  Cubes & Dice / cube net - which cube: 1
+  Cubes & Dice / die views - matching net: 1
+  Counting Figures / triangles - cevians and a parallel line: 1
+  Counting Figures / triangles, squares and rectangles in a square (MSQ): 1
+  Counting Figures / rectangles that are not squares in a grid: 1
+  Counting Figures / triangles in a grid with diagonals: 1
+  Counting Figures / triangles in a pentagon with all diagonals: 1
+  Counting Figures / triangles in a rectangle: 1
+  Counting Figures / triangles in a subdivided triangle: 1
+  Counting Figures / triangles in a hexagon with a six-pointed star: 1
+  Counting Figures / triangles in a square with a diagonal and two lines: 1
+  Counting Figures / rectangles with a partial line: 1
+  Counting Figures / squares not containing a shaded cell: 1
+  Counting Figures / triangles in two squares with diagonals: 1
+  Counting Figures / rectangles in a staircase figure: 1
+  Counting Figures / parallelograms from two sets of parallel lines: 1
+  Patterns & Projections / counting cubes in a stack: 1
+  Patterns & Projections / maximum cubes from front and side views: 1
+  Patterns & Projections / front view of a stack: 1
+  Patterns & Projections / cross-section of a cube: 1
+  Patterns & Projections / cross-section area of a cube: 1
+  Patterns & Projections / cross-sections of a tetrahedron: 1
+  Patterns & Projections / hexagonal cross-section of a cube: 1
+  Patterns & Projections / shadows (projections) of a cylinder: 1
+  Patterns & Projections / surface area of a solid of unit cubes: 1
+  Patterns & Projections / cubes needed to complete a cube: 1
+  Patterns & Projections / cube with two perpendicular holes: 1
+  Patterns & Projections / visible cubes of a large cube: 1
+  Patterns & Projections / figure series - two moving markers: 1
+  Patterns & Projections / pattern completion - rotational symmetry: 1
+
+Difficulty 1/2/3: 16/21/13
+Marks 1/2: 25/25
+Type MCQ/MSQ/NAT: 41/4/5
+MCQ answer letters: {'A': 11, 'B': 11, 'C': 10, 'D': 9}
+Figures: site/img/q/SP1-*.svg (PNG copies in review/figs/), all viewed.
+Validator: 0 errors, 0 warnings; every item has verify code (enumeration / rotation-group / net folding / segment-graph counting).
+
+STATUS: COMPLETE

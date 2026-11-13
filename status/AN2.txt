@@ -1,0 +1,187 @@
+AN2 — Analytical, 170 questions (AN2-001 … AN2-170), all Original, all with verify code.
+Final validate: 0 errors, 0 warnings.
+
+Topic / subtopic counts:
+  Arrangements: 45
+    - checking candidate orders: 1
+    - circle of n, opposite positions: 1
+    - circular with a swap: 1
+    - circular with professions: 1
+    - circular, eight persons: 1
+    - circular, facing centre: 1
+    - circular, facing outward: 1
+    - circular, five persons: 1
+    - circular, mixed facing: 1
+    - circular, seven persons: 1
+    - circular, statements true: 1
+    - comparison chain (ages): 1
+    - comparison chain (weights): 1
+    - conditional ranking: 1
+    - counting between, clockwise: 1
+    - counting valid schedules: 1
+    - finishing order of a race: 1
+    - floors of a building: 1
+    - floors with a second attribute: 1
+    - floors with a vacant floor: 1
+    - floors with east/west flats: 1
+    - height ordering, possible positions: 1
+    - house numbers on a street: 1
+    - linear row facing north: 1
+    - linear row facing south: 1
+    - linear row, seven persons: 1
+    - months of birthdays: 1
+    - necessarily false statement: 1
+    - parking slots: 1
+    - persons between two positions: 1
+    - possible seats: 1
+    - queue, two cases: 1
+    - ranking after interchange: 1
+    - ranking by marks: 1
+    - ranking in a row: 1
+    - ranking, must be true: 1
+    - row with mixed facing directions: 1
+    - scheduling in day-slot grid: 1
+    - scheduling over days: 1
+    - scheduling with a free day: 1
+    - seat numbers: 1
+    - square table, facing centre: 1
+    - two cases, must be true: 1
+    - two rows facing each other: 1
+    - vertical stack ordering: 1
+  Puzzles: 30
+    - Latin-square grid: 1
+    - byes in a knock-out: 1
+    - climbing with slips: 1
+    - cryptarithm count: 1
+    - double round robin count: 1
+    - exactly one person lies: 2
+    - exactly one statement true: 1
+    - exactly two statements true: 1
+    - grid assignment, must be true: 1
+    - grid assignment, pets and cities: 1
+    - grid assignment, three attributes: 1
+    - group stage plus knock-out: 1
+    - handshakes: 1
+    - knights and knaves, must be true: 1
+    - knights and knaves, three persons: 1
+    - knights and knaves, two persons: 1
+    - knock-out match count: 1
+    - lying on fixed days: 1
+    - magic square: 1
+    - measuring with two jugs: 1
+    - minimum crossings: 1
+    - neighbour-count grid: 1
+    - pigeonhole, drawing socks: 1
+    - possible points tables: 1
+    - round robin points and draws: 1
+    - round robin total points: 1
+    - truth-teller, liar and alternator: 1
+    - weighing to find a heavier coin: 1
+    - weighing, maximum coins: 1
+  Directions: 20
+    - combining relative positions: 1
+    - diagonal legs: 1
+    - direction from relative positions: 1
+    - direction of one point from another: 1
+    - displacement after a walk: 1
+    - positions of several points: 1
+    - relative positions of points: 1
+    - renamed directions: 1
+    - robot with turn commands: 1
+    - several turns, distance and direction: 1
+    - shadow in the morning: 1
+    - shadow, two persons facing: 1
+    - spiral walk: 1
+    - successive left/right turns: 1
+    - turning by angles: 1
+    - turns, final position: 1
+    - two legs, distance: 1
+    - two walkers from one point: 1
+    - walk around blocks: 1
+    - walking past the target: 1
+  Blood Relations: 20
+    - aunt by blood: 1
+    - brother of grandson: 1
+    - chain of statements: 1
+    - counting family members: 1
+    - counting members by gender: 1
+    - gender not stated, must be true: 1
+    - grand-aunt: 1
+    - husband's brother's son: 1
+    - inferences, must be true: 1
+    - introducing a person: 1
+    - long coded expression: 1
+    - mother-in-law of brother's wife: 1
+    - necessarily false: 1
+    - only daughter of grandfather: 1
+    - pointing to a person: 1
+    - relation through marriage: 1
+    - statements about a family: 1
+    - symbol-coded relations: 1
+    - three generations: 1
+    - which coded expression: 1
+  Coding-Decoding: 20
+    - alternating shifts: 1
+    - chunk codes: 1
+    - chunk codes, possible codes: 1
+    - coded comparison symbols: 1
+    - decoding a shift cipher with wrap-around: 1
+    - increasing shifts: 1
+    - interchanging signs: 1
+    - letters to numbers: 1
+    - letter–digit substitution: 1
+    - operator substitution: 1
+    - positions plus word length: 1
+    - positions times length: 1
+    - reversal plus shift: 1
+    - reverse alphabet: 1
+    - shift by length, then reverse: 1
+    - shift pattern, position sum: 1
+    - sum of letter positions: 1
+    - swapping adjacent letters: 1
+    - uniform letter shift: 1
+    - vowel and consonant rules: 1
+  Series & Patterns: 20
+    - block series: 1
+    - letter groups, size and gap: 1
+    - letter series with wrap-around: 1
+    - letter series, constant gap: 1
+    - missing middle term: 1
+    - missing number in a table: 1
+    - missing number, row rule: 1
+    - nth term of a recurrence: 1
+    - number analogy: 1
+    - odd letter group out: 1
+    - odd pair out: 1
+    - recurrence run backwards: 1
+    - repeating pattern: 1
+    - rules generating a sequence: 1
+    - same rule, new start: 1
+    - squares minus one: 1
+    - terms of a series: 1
+    - times two plus one: 1
+    - two interleaved series: 1
+    - wrong term: 1
+  Clocks & Calendars: 15
+    - angle between hands: 2
+    - counting leap years: 1
+    - counting weekdays in a year: 1
+    - dates within a month: 1
+    - day of week within a year: 1
+    - first right angle after an hour: 1
+    - hands coinciding: 1
+    - mirror image of a clock: 1
+    - odd days across years: 1
+    - repetition of calendars: 1
+    - right angles in an interval: 1
+    - slow clock: 1
+    - times with a right angle: 1
+    - watch that gains: 1
+
+Mix:
+  difficulty 1/2/3: 47 (28%) / 82 (48%) / 41 (24%)
+  marks 1/2: 89 (52%) / 81 (48%)
+  type MCQ/MSQ/NAT: 138 (81%) / 15 (9%) / 17 (10%)
+  MCQ answer letters: A 35, B 38, C 33, D 32
+
+STATUS: COMPLETE

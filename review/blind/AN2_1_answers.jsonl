@@ -1,0 +1,60 @@
+{"id": "AN2-001", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "AN2-002", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "AN2-003", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "AN2-004", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "AN2-005", "answer": 32, "confidence": "high", "issue": ""}
+{"id": "AN2-006", "answer": "C", "confidence": "medium", "issue": "'J scored less than only O' is awkwardly worded (read as: only O scored more than J)"}
+{"id": "AN2-007", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "AN2-008", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "AN2-009", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "AN2-010", "answer": "C", "confidence": "medium", "issue": "'right' in a row with mixed facing directions is ambiguous; answer stands under east-is-right reading (two valid configurations, same answer)"}
+{"id": "AN2-011", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "AN2-012", "answer": "C", "confidence": "medium", "issue": "Q's facing direction not given but answer is still unique"}
+{"id": "AN2-013", "answer": ["A", "C", "D"], "confidence": "high", "issue": ""}
+{"id": "AN2-014", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "AN2-015", "answer": 4, "confidence": "high", "issue": ""}
+{"id": "AN2-016", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "AN2-017", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "AN2-018", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "AN2-019", "answer": "A", "confidence": "high", "issue": ""}
+{"id": "AN2-020", "answer": 38, "confidence": "high", "issue": ""}
+{"id": "AN2-021", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "AN2-022", "answer": ["A", "B"], "confidence": "high", "issue": ""}
+{"id": "AN2-023", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "AN2-024", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "AN2-025", "answer": "A", "confidence": "high", "issue": ""}
+{"id": "AN2-026", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "AN2-027", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "AN2-028", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "AN2-029", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "AN2-030", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "AN2-031", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "AN2-032", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "AN2-033", "answer": ["A", "C"], "confidence": "high", "issue": ""}
+{"id": "AN2-034", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "AN2-035", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "AN2-036", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "AN2-037", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "AN2-038", "answer": 3, "confidence": "high", "issue": ""}
+{"id": "AN2-039", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "AN2-040", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "AN2-041", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "AN2-042", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "AN2-043", "answer": "C", "confidence": "medium", "issue": "option wording with 'or' makes it weak; C holds in both valid configurations but A/D differ across configurations"}
+{"id": "AN2-044", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "AN2-045", "answer": ["A", "B", "D"], "confidence": "high", "issue": ""}
+{"id": "AN2-046", "answer": "A", "confidence": "high", "issue": ""}
+{"id": "AN2-047", "answer": "A", "confidence": "high", "issue": ""}
+{"id": "AN2-048", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "AN2-049", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "AN2-050", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "AN2-051", "answer": 132, "confidence": "high", "issue": ""}
+{"id": "AN2-052", "answer": "A", "confidence": "high", "issue": ""}
+{"id": "AN2-053", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "AN2-054", "answer": 8, "confidence": "high", "issue": ""}
+{"id": "AN2-055", "answer": "A", "confidence": "high", "issue": ""}
+{"id": "AN2-056", "answer": 81, "confidence": "high", "issue": ""}
+{"id": "AN2-057", "answer": "B", "confidence": "high", "issue": "assumes someone rows the boat back each time; fine but trivial"}
+{"id": "AN2-058", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "AN2-059", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "AN2-060", "answer": "A", "confidence": "high", "issue": ""}

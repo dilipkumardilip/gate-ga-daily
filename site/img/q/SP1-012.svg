@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="117.411097pt" height="147.456pt" viewBox="0 0 117.411097 147.456" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-13T04:52:53.898530</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 147.456 
+L 117.411097 147.456 
+L 117.411097 0 
+L 0 0 
+L 0 147.456 
+z
+" style="fill: none"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 58.705548 58.705548 
+L 95.876476 37.244903 
+L 58.705548 15.784258 
+L 21.534621 37.244903 
+z
+" clip-path="url(#p8605912396)" style="fill: #ffffff; stroke: #2f3a3a; stroke-width: 1.8"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 58.705548 58.705548 
+L 21.534621 37.244903 
+L 21.534621 80.166194 
+L 58.705548 101.626839 
+z
+" clip-path="url(#p8605912396)" style="fill: #ffffff; stroke: #2f3a3a; stroke-width: 1.8"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 58.705548 58.705548 
+L 95.876476 37.244903 
+L 95.876476 80.166194 
+L 58.705548 101.626839 
+z
+" clip-path="url(#p8605912396)" style="fill: #ffffff; stroke: #2f3a3a; stroke-width: 1.8"/>
+   </g>
+   <g id="text_1">
+    <!-- 1 -->
+    <g style="fill: #2f3a3a" transform="translate(52.343048 42.440216) scale(0.2 -0.2)">
+     <defs>
+      <path id="DejaVuSans-14" d="M 794 531 
+L 1825 531 
+L 1825 4091 
+L 703 3866 
+L 703 4441 
+L 1819 4666 
+L 2450 4666 
+L 2450 531 
+L 3481 531 
+L 3481 0 
+L 794 0 
+L 794 531 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#DejaVuSans-14"/>
+    </g>
+   </g>
+   <g id="text_2">
+    <!-- 2 -->
+    <g style="fill: #2f3a3a" transform="translate(33.757584 74.631183) scale(0.2 -0.2)">
+     <defs>
+      <path id="DejaVuSans-15" d="M 1228 531 
+L 3431 531 
+L 3431 0 
+L 469 0 
+L 469 531 
+Q 828 903 1448 1529 
+Q 2069 2156 2228 2338 
+Q 2531 2678 2651 2914 
+Q 2772 3150 2772 3378 
+Q 2772 3750 2511 3984 
+Q 2250 4219 1831 4219 
+Q 1534 4219 1204 4116 
+Q 875 4013 500 3803 
+L 500 4441 
+Q 881 4594 1212 4672 
+Q 1544 4750 1819 4750 
+Q 2544 4750 2975 4387 
+Q 3406 4025 3406 3419 
+Q 3406 3131 3298 2873 
+Q 3191 2616 2906 2266 
+Q 2828 2175 2409 1742 
+Q 1991 1309 1228 531 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#DejaVuSans-15"/>
+    </g>
+   </g>
+   <g id="text_3">
+    <!-- 3 -->
+    <g style="fill: #2f3a3a" transform="translate(70.928512 74.631183) scale(0.2 -0.2)">
+     <defs>
+      <path id="DejaVuSans-16" d="M 2597 2516 
+Q 3050 2419 3304 2112 
+Q 3559 1806 3559 1356 
+Q 3559 666 3084 287 
+Q 2609 -91 1734 -91 
+Q 1441 -91 1130 -33 
+Q 819 25 488 141 
+L 488 750 
+Q 750 597 1062 519 
+Q 1375 441 1716 441 
+Q 2309 441 2620 675 
+Q 2931 909 2931 1356 
+Q 2931 1769 2642 2001 
+Q 2353 2234 1838 2234 
+L 1294 2234 
+L 1294 2753 
+L 1863 2753 
+Q 2328 2753 2575 2939 
+Q 2822 3125 2822 3475 
+Q 2822 3834 2567 4026 
+Q 2313 4219 1838 4219 
+Q 1578 4219 1281 4162 
+Q 984 4106 628 3988 
+L 628 4550 
+Q 988 4650 1302 4700 
+Q 1616 4750 1894 4750 
+Q 2613 4750 3031 4423 
+Q 3450 4097 3450 3541 
+Q 3450 3153 3228 2886 
+Q 3006 2619 2597 2516 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#DejaVuSans-16"/>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p8605912396">
+   <rect x="7.2" y="7.2" width="103.011097" height="133.056"/>
+  </clipPath>
+ </defs>
+</svg>

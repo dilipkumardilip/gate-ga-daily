@@ -1,0 +1,137 @@
+QN3 — Quant (Percentages; Profit, Loss & Interest; Ratio, Proportion & Mixtures; Averages)
+Count: 120 questions (QN3-001 to QN3-120)
+
+Topic / subtopic counts:
+  Percentages: 35
+    - base change (more than / less than): 1
+    - successive change: 1
+    - percentage points vs percent: 1
+    - population (inverse, successive): 1
+    - depreciation: 1
+    - elections (turnout, invalid votes): 1
+    - price–consumption–expenditure: 1
+    - base change chain: 1
+    - quotient of two changing quantities: 1
+    - three-factor product: 1
+    - inverse percentage (tax included): 1
+    - exam pass/fail (sets): 1
+    - power-law change (cube): 1
+    - units before percentage: 1
+    - income–expenditure–savings: 1
+    - weighted percentages over groups: 1
+    - percentage of a sub-group: 1
+    - elections (vote switching): 1
+    - inverse percentage: 1
+    - base change (statements): 1
+    - percentage points vs percent (rates): 1
+    - population with migration: 1
+    - exam pass marks: 1
+    - basic percentage: 1
+    - equal rise and fall: 1
+    - fixed budget across items: 1
+    - successive pass percentages: 1
+    - dry mass (water content): 1
+    - successive changes (net sign): 1
+    - percentage increase: 1
+    - share of a sub-group (reverse): 1
+    - value = price × volume: 1
+    - successive shares of income: 1
+    - revenue = price × quantity (two stages): 1
+    - elections (data statements): 1
+  Profit, Loss & Interest: 35
+    - discount and profit: 1
+    - successive vs single discount: 1
+    - mark-up with discount chain: 1
+    - false weight with mark-up: 1
+    - false weights (buying and selling): 1
+    - simple interest: 1
+    - CI − SI (2 years): 1
+    - CI − SI (2 and 3 years): 1
+    - compound growth (multiples): 1
+    - half-yearly vs annual compounding: 1
+    - same SP, profit and loss: 1
+    - difference of two outcomes: 1
+    - profit on total outlay (wastage): 1
+    - cost price from loss: 1
+    - gain as selling price of items: 1
+    - equal annual instalments (CI): 1
+    - marked price for target profit: 1
+    - free items plus discount: 1
+    - successive sales: 1
+    - simple interest from two amounts: 1
+    - compound interest from two amounts: 1
+    - compound interest with changing rates: 1
+    - simple interest (multiplying time): 1
+    - present value: 1
+    - profit % when cost changes: 1
+    - cost and price both change: 1
+    - SI vs CI (statements): 1
+    - discount equals loss: 1
+    - two items, overall profit: 1
+    - mark-up, discount and false weight: 1
+    - rate of return (CI): 1
+    - chain of sales (inverse): 1
+    - borrow at SI, lend at CI: 1
+    - marked price, discount, profit (statements): 1
+    - part repayment (CI): 1
+  Ratio, Proportion & Mixtures: 35
+    - combining ratios: 1
+    - coins (count ratio to value): 1
+    - ages (ratio now and later): 1
+    - partnership (capital × time, withdrawal): 1
+    - variation (square law): 1
+    - adulteration (mixture at cost price): 1
+    - repeated replacement: 1
+    - repeated replacement (unknown quantity): 1
+    - mixing two alloys: 1
+    - proportion (solve for ratio): 1
+    - division in a ratio of fractions: 1
+    - ratio after addition: 1
+    - partnership with working partner: 1
+    - mean and third proportional: 1
+    - inverse variation (square): 1
+    - combining two groups (ratio of sizes): 1
+    - mixing two mixtures: 1
+    - replacement to reach a target ratio: 1
+    - fourth proportional: 1
+    - incomes and expenditures: 1
+    - ages of three people: 1
+    - ratio after subtraction: 1
+    - alligation (interest rates): 1
+    - three-way mixture: 1
+    - partnership (find time): 1
+    - properties of proportion: 1
+    - compounded ratio: 1
+    - ratio of daily wages: 1
+    - variation (value ∝ weight squared): 1
+    - two-step replacement (concentration): 1
+    - componendo–dividendo: 1
+    - coins (value ratio to count): 1
+    - ages (constant difference): 1
+    - partnership (find periods): 1
+    - mixing two mixtures (statements): 1
+  Averages: 15
+    - consecutive odd numbers: 1
+    - replacement in a group: 1
+    - wrong-entry correction (two errors): 1
+    - weighted average of two groups: 1
+    - new average after one more value: 1
+    - average age over time: 1
+    - consecutive integers: 1
+    - weighted average (find group size): 1
+    - properties of the mean: 1
+    - average of an arithmetic sequence: 1
+    - overlapping group averages: 1
+    - overlapping parts of a list: 1
+    - replacing two members: 1
+    - wrong entry (find group size): 1
+    - weighted average with new members: 1
+
+Mix:
+  type: {'MCQ': 100, 'NAT': 11, 'MSQ': 9}
+  marks: 1-mark 53, 2-mark 67
+  difficulty: 1=31, 2=59, 3=30
+  MCQ answer letters: {'A': 25, 'B': 25, 'C': 25, 'D': 25}
+  verify code: present for all 120 items; validator: 0 errors, 0 warnings
+
+STATUS: COMPLETE

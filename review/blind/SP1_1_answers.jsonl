@@ -1,0 +1,50 @@
+{"id": "SP1-001", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "SP1-002", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "SP1-003", "answer": "A", "confidence": "high", "issue": ""}
+{"id": "SP1-004", "answer": 60, "confidence": "high", "issue": ""}
+{"id": "SP1-005", "answer": "A", "confidence": "high", "issue": ""}
+{"id": "SP1-006", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "SP1-007", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "SP1-008", "answer": 72, "confidence": "high", "issue": ""}
+{"id": "SP1-009", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "SP1-010", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "SP1-011", "answer": "D", "confidence": "high", "issue": "figure is identical to SP1-010 (same three views); fine but repetitive if both appear in one test"}
+{"id": "SP1-012", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "SP1-013", "answer": "A", "confidence": "high", "issue": ""}
+{"id": "SP1-014", "answer": 17, "confidence": "high", "issue": ""}
+{"id": "SP1-015", "answer": "A", "confidence": "high", "issue": ""}
+{"id": "SP1-016", "answer": "C", "confidence": "high", "issue": "option C fails only on handedness (cyclic order of U,T,S), which is subtle for a candidate; still uniquely determined"}
+{"id": "SP1-017", "answer": ["A","C"], "confidence": "high", "issue": ""}
+{"id": "SP1-018", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "SP1-019", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "SP1-020", "answer": ["B","D"], "confidence": "high", "issue": ""}
+{"id": "SP1-021", "answer": "A", "confidence": "high", "issue": ""}
+{"id": "SP1-022", "answer": "B", "confidence": "high", "issue": "same three views as SP1-010/011"}
+{"id": "SP1-023", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "SP1-024", "answer": ["A","C"], "confidence": "high", "issue": ""}
+{"id": "SP1-025", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "SP1-026", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "SP1-027", "answer": "A", "confidence": "high", "issue": ""}
+{"id": "SP1-028", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "SP1-029", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "SP1-030", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "SP1-031", "answer": "A", "confidence": "medium", "issue": ""}
+{"id": "SP1-032", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "SP1-033", "answer": 41, "confidence": "high", "issue": ""}
+{"id": "SP1-034", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "SP1-035", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "SP1-036", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "SP1-037", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "SP1-038", "answer": "A", "confidence": "high", "issue": ""}
+{"id": "SP1-039", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "SP1-040", "answer": "A", "confidence": "high", "issue": ""}
+{"id": "SP1-041", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "SP1-042", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "SP1-043", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "SP1-044", "answer": ["A","B","D"], "confidence": "medium", "issue": "option D wording: the oblique shadow is bounded by two parallel segments and two half-ellipse arcs; acceptable but 'curved arcs' is loose"}
+{"id": "SP1-045", "answer": 34, "confidence": "medium", "issue": "isometric figure must be read carefully; heights read as back row 3,2,1 and front row 2,1,1 (10 cubes)"}
+{"id": "SP1-046", "answer": "A", "confidence": "high", "issue": ""}
+{"id": "SP1-047", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "SP1-048", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "SP1-049", "answer": "A", "confidence": "high", "issue": ""}
+{"id": "SP1-050", "answer": "B", "confidence": "high", "issue": ""}

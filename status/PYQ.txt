@@ -1,0 +1,74 @@
+PYQ bank — real GATE GA previous-year questions converted from Notes/_tools/GA_src/research/{recent,classic,da}_ga.md
+Generator: tools/pyq2jsonl.py  ->  bank/PYQ.jsonl  (figures: site/img/pyq/)
+
+Total items: 287  (recent 2021-26: 116, classic 2010-20: 141, DA 2024-26: 30)
+Keys: every answer re-checked against the entry's "Answer (key)" line (DA: official-answer line + summary table) — 0 mismatches; option order preserved.
+validate.py: 0 errors, 0 warnings.
+
+Counts per section / topic:
+  Quant: 116
+    Data Interpretation: 25
+    Probability: 9
+    Algebra & Functions: 9
+    Powers & Logarithms: 8
+    Number System: 8
+    Permutations & Combinations: 7
+    Geometry: 7
+    Ratio, Proportion & Mixtures: 6
+    Statistics: 6
+    Profit, Loss & Interest: 5
+    Series & Progressions: 5
+    Mensuration: 5
+    Percentages: 5
+    Time & Work: 4
+    Averages: 3
+    Speed, Time & Distance: 3
+    Numerical Estimation: 1
+  Verbal: 80
+    Grammar: 33
+    Vocabulary: 20
+    Word Analogy: 9
+    Reading Comprehension: 9
+    Verbal Reasoning: 5
+    Sentence Ordering: 4
+  Analytical: 58
+    Puzzles: 13
+    Logical Deduction: 9
+    Syllogisms: 8
+    Series & Patterns: 7
+    Arrangements: 7
+    Clocks & Calendars: 5
+    Coding-Decoding: 4
+    Blood Relations: 3
+    Directions: 2
+  Spatial: 33
+    Patterns & Projections: 8
+    Mirror & Rotation: 7
+    Paper Folding & Cutting: 5
+    Counting Figures: 5
+    Transformations: 4
+    Cubes & Dice: 4
+
+Mix (type, marks, difficulty): ('MCQ', 1, 1): 71, ('MCQ', 1, 2): 70, ('MCQ', 2, 2): 71, ('MCQ', 2, 3): 69, ('NAT', 2, 2): 4, ('NAT', 2, 3): 2
+MCQ answer letters: {'A': 68, 'B': 76, 'C': 86, 'D': 51}
+Difficulty: judgement heuristic — 1-mark items get 1 or 2, 2-mark items 2 or 3, split at the median solution length within each (marks, section) group.
+
+Skipped / dropped:
+  R3   — duplicate of classic 10.3.1 (kept as PYQ-C10.3.1)
+  R38  — duplicate of classic 11.15.1 (kept as PYQ-C11.15.1)
+  R101 — duplicate of classic 10.4.3 (kept as PYQ-C10.4.3)
+  Entries in the sources' "E. Dropped / not used" sections were not converted (not part of the curated sets).
+  No entry was dropped for a missing figure: every figure-based entry has an image in img/pyq/ (recent_*, classic_*, da20xx_*);
+  classic 8.5.28 has no image but its 3x3 letter grid is transcribed in the entry and is rendered as an HTML table.
+
+Figure notes:
+  - Only images from Notes/_tools/GA_src/img/pyq/ were used (all 75), copied to site/img/pyq/; no research/figs/recent_*.png.
+  - Where both a question figure and a separate options figure exist (R20, R69, R74, R82, R139, R265, R311, classic 10.2.1, 10.3.1, 10.5.1),
+    they are stacked into one image site/img/pyq/<name>_full.png (the schema has a single `figure` field).
+  - Items whose options are pictures (those above + R345, classic 10.4.1, DA2024-Q9) have options ["A","B","C","D"] and the stem says
+    "Options are labelled in the figure." (no per-option images exist, so option_figures is not used).
+  - Data figures (bar/pie/line/maps) use the redrawn img/pyq images, so no `chart` specs were needed.
+
+Extra field: "pyq": true on every item; ids PYQ-R<n> / PYQ-C<GO id> / PYQ-DA<year>-Q<n>.
+
+STATUS: COMPLETE

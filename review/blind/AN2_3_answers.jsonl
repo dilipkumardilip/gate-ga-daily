@@ -1,0 +1,50 @@
+{"id": "AN2-121", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "AN2-122", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "AN2-123", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "AN2-124", "answer": ["A", "B"], "confidence": "high", "issue": ""}
+{"id": "AN2-125", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "AN2-126", "answer": "A", "confidence": "high", "issue": ""}
+{"id": "AN2-127", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "AN2-128", "answer": "A", "confidence": "high", "issue": ""}
+{"id": "AN2-129", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "AN2-130", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "AN2-131", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "AN2-132", "answer": 43, "confidence": "high", "issue": ""}
+{"id": "AN2-133", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "AN2-134", "answer": "A", "confidence": "high", "issue": ""}
+{"id": "AN2-135", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "AN2-136", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "AN2-137", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "AN2-138", "answer": "A", "confidence": "high", "issue": ""}
+{"id": "AN2-139", "answer": "A", "confidence": "high", "issue": ""}
+{"id": "AN2-140", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "AN2-141", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "AN2-142", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "AN2-143", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "AN2-144", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "AN2-145", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "AN2-146", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "AN2-147", "answer": "A", "confidence": "high", "issue": ""}
+{"id": "AN2-148", "answer": ["A", "C"], "confidence": "high", "issue": ""}
+{"id": "AN2-149", "answer": 14, "confidence": "high", "issue": ""}
+{"id": "AN2-150", "answer": 513, "confidence": "high", "issue": ""}
+{"id": "AN2-151", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "AN2-152", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "AN2-153", "answer": "A", "confidence": "high", "issue": ""}
+{"id": "AN2-154", "answer": ["A", "B"], "confidence": "high", "issue": ""}
+{"id": "AN2-155", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "AN2-156", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "AN2-157", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "AN2-158", "answer": 27.27, "confidence": "medium", "issue": "NAT needs two-decimal precision 27.27 (300/11); tolerance should be stated"}
+{"id": "AN2-159", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "AN2-160", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "AN2-161", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "AN2-162", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "AN2-163", "answer": "A", "confidence": "high", "issue": ""}
+{"id": "AN2-164", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "AN2-165", "answer": 53, "confidence": "high", "issue": ""}
+{"id": "AN2-166", "answer": 73, "confidence": "high", "issue": ""}
+{"id": "AN2-167", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "AN2-168", "answer": ["A", "C"], "confidence": "high", "issue": ""}
+{"id": "AN2-169", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "AN2-170", "answer": "A", "confidence": "high", "issue": ""}

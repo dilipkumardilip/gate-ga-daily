@@ -1,0 +1,139 @@
+QN5 — Quant (P&C, Probability, Statistics) — 120 questions, file bank/QN5.jsonl
+Final validate: 0 errors, 0 warnings; every item has verify code (itertools enumeration / Fraction where feasible).
+
+Topics:
+  Permutations & Combinations: 45
+  Probability: 45
+  Statistics: 30
+
+Subtopics:
+  [Permutations & Combinations]
+    sum and product rule: 1
+    product rule, codes: 1
+    digits, odd with distinct digits: 1
+    digits, even and greater than 5000: 1
+    arrangements with repeated letters: 1
+    identical letters, block method: 1
+    no two together with ends fixed: 1
+    identical objects into distinct boxes: 1
+    circular, two together: 1
+    circular, alternate seating: 1
+    circular, two never together: 1
+    necklace (flip allowed): 1
+    circular with identical empty chairs: 1
+    committee, exactly k: 1
+    committee, at least k: 1
+    selection, two cannot both be chosen: 1
+    select then arrange, block: 1
+    identical objects, minimum per person: 1
+    distinct objects, none empty: 1
+    integer solutions with upper bound: 1
+    grid paths: 1
+    grid paths through a point: 1
+    grid paths avoiding points (IEP): 1
+    Venn, two sets: 1
+    Venn, three sets, exactly one: 1
+    Venn, solve for the centre: 1
+    minimum overlap of three sets: 1
+    divisibility count in a range: 1
+    divisible by a or b (lcm): 1
+    divisible by none (3-set IEP): 1
+    divisible by one but not another, range: 1
+    pigeonhole, guarantee of a specific colour: 1
+    pigeonhole, birthdays: 1
+    pigeonhole with limited supply: 1
+    handshakes: 1
+    handshakes, diagonals, triangles: 1
+    lines and triangles with collinear points: 1
+    sum and product rule, routes: 1
+    product rule with subsets: 1
+    no two identical items adjacent: 1
+    number of divisors (product rule): 1
+    selection with parity condition: 1
+    forbidden positions (IEP): 1
+    derangements, exactly k fixed: 1
+    handshakes between two groups: 1
+  [Probability]
+    two dice, classical: 1
+    coins, exactly k heads: 1
+    cards, addition rule: 1
+    balls drawn together: 1
+    committee, at least one (complement): 1
+    at least one six: 1
+    independent events, at least one: 1
+    conditional, reduced sample space: 1
+    conditional, children: 1
+    Bayes, three machines: 1
+    Bayes, medical test: 1
+    total probability, two urns: 1
+    transfer between bags: 1
+    Bayes, biased coins: 1
+    cards without replacement: 1
+    geometric probability, rectangle: 1
+    geometric probability, meeting problem: 1
+    bounds on union without independence: 1
+    independent events, exactly one: 1
+    expected value of a game: 1
+    binomial, exactly k: 1
+    birthday-type, at least two same: 1
+    arrangement probability, adjacent letters: 1
+    circular seating probability: 1
+    random lattice path: 1
+    first success on a given draw: 1
+    conditional, die: 1
+    maximum of two dice: 1
+    two dice, product condition: 1
+    cards, same suit: 1
+    independent events, exactly two: 1
+    alternate turns, first to succeed: 1
+    committee from couples, none together: 1
+    random integer, divisibility: 1
+    conditional from a two-way table: 1
+    derangement probability: 1
+    draw with changing composition: 1
+    independence vs mutual exclusion (dice): 1
+    draws without replacement, MSQ: 1
+    rules: independence, conditional, union: 1
+    cards: independence and conditional: 1
+    three dice, sum: 1
+    Bayes, percentage answer: 1
+    at least one six, decimal: 1
+    geometric probability, circle in square: 1
+  [Statistics]
+    median, even count: 1
+    mean after removing a value: 1
+    missing value from mean: 1
+    corrected mean: 1
+    combined mean, unknown group size: 1
+    weighted mean: 1
+    comparing standard deviations: 1
+    mean, median, mode, range: 1
+    variance: 1
+    linear transformation: mean and SD: 1
+    variance of a linear function: 1
+    combined variance of two groups: 1
+    SD from sums: 1
+    variance after adding the mean: 1
+    median from a frequency table: 1
+    mean, median, mode from a bar chart: 1
+    effect of a linear change on statistics: 1
+    properties of mean and median: 1
+    mean, median, unique mode constraints: 1
+    averages of overlapping parts: 1
+    variance of first n natural numbers: 1
+    recover two values from mean and variance: 1
+    mean of the remaining group: 1
+    median of primes: 1
+    effect of changing extreme values: 1
+    empirical mean-median-mode relation: 1
+    SD of two numbers: 1
+    variance after replacing a value: 1
+    range and mean after changes: 1
+    combined mean of three groups: 1
+
+Type: {'MCQ': 98, 'MSQ': 11, 'NAT': 11}
+Marks: {1: 53, 2: 67}
+Difficulty: {1: 37, 2: 55, 3: 28}
+MCQ answer letters: {'A': 25, 'B': 25, 'C': 24, 'D': 24}
+
+STATUS: COMPLETE

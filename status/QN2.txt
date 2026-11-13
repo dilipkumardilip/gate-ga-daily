@@ -1,0 +1,121 @@
+QN2 — Quant (Series & Progressions, Algebra & Functions) — 110 questions (QN2-001 .. QN2-110)
+Validator: 0 errors, 0 warnings; every item has verify code that passes.
+
+Topics: Series & Progressions: 45, Algebra & Functions: 65
+
+Series & Progressions subtopics:
+  AGP with an unknown: 1
+  AP nth term: 1
+  AP symmetric terms: 1
+  AP turned into GP: 1
+  AP word problem (instalments): 1
+  AP word problem (savings): 1
+  AP word problem (stacking): 1
+  GP growth: 1
+  GP nth term: 1
+  alternating sum of squares: 1
+  bouncing ball: 1
+  convergence of infinite GP: 1
+  counting terms of an AP: 1
+  double sum: 1
+  finite AGP: 1
+  first negative term: 1
+  infinite AGP: 1
+  infinite GP (alternating): 1
+  infinite GP and its squares: 1
+  infinite series values: 1
+  inserted arithmetic means: 1
+  interleaved infinite GPs: 1
+  least n for GP sum: 1
+  linearity of sigma: 1
+  maximum sum of a decreasing AP: 1
+  nth term from S_n: 1
+  operations on a GP: 1
+  operations on an AP: 1
+  ratio of sums of two APs: 1
+  recurrence run backwards: 1
+  recurring decimal as GP: 1
+  shifting the index: 1
+  sigma algebra with given sums: 1
+  sigma notation equivalence: 1
+  sigma notation with GP: 1
+  sum k/3^k: 1
+  sum of 0.7 + 0.77 + ...: 1
+  sum of an AP in a range: 1
+  sum of cubes: 1
+  sum of k(k+1): 1
+  telescoping product: 1
+  telescoping sum (step 2): 1
+  telescoping with surds: 1
+  three terms in AP: 1
+  three terms in GP: 1
+
+Algebra & Functions subtopics:
+  age problem: 3
+  age problem (quadratic): 1
+  age problem (ratios): 1
+  ceiling in counting: 1
+  common root: 1
+  composition of functions: 2
+  consistency of a linear system: 1
+  digits problem: 1
+  equation in floor: 1
+  equation with two moduli: 1
+  equation with |x|: 1
+  finding an inner function: 1
+  floor and ceiling properties: 1
+  floor and ceiling values: 1
+  floor and fractional part: 1
+  floor of square roots: 1
+  floor sum: 1
+  functional equation: 1
+  identify the graph (folded parabola): 1
+  identify the graph (max / ramp functions): 1
+  identify the graph (modulus): 1
+  identify the graph (step function): 1
+  identity with modulus: 1
+  inverse function value: 1
+  inverse of a rational function: 1
+  linear equation in integers: 1
+  linear equations (word problem): 2
+  linear function and composition: 1
+  linear inequality: 1
+  linear inequality (word problem): 1
+  maximum of a minimum: 1
+  maximum of a product: 1
+  maximum of a quadratic (revenue): 1
+  minimum (AM-GM): 1
+  minimum of a quadratic: 1
+  minimum of a sum of |x - a|: 1
+  modulus between two bounds: 1
+  modulus inequality: 1
+  modulus of a quadratic: 1
+  nature of roots: 1
+  odd and even functions: 1
+  odd function value: 1
+  piecewise function evaluation: 1
+  piecewise function on integers: 1
+  piecewise function without a break: 1
+  properties of inequalities: 1
+  quadratic in disguise: 1
+  quadratic inequality: 1
+  quadratic with reciprocal roots: 1
+  quadratic word problem: 1
+  quadratic: roots from wrong attempts: 1
+  quadratic: symmetric functions of roots: 1
+  rational inequality: 1
+  repeated composition: 1
+  self-inverse function: 1
+  sign function: 1
+  signs of coefficients from a graph: 1
+  symmetric expressions: 1
+  system of three equations: 1
+  true statement about a function: 2
+
+Difficulty: 1=31 2=54 3=25
+Marks: 1-mark=51 2-mark=59
+Type: MCQ=91 MSQ=9 NAT=10
+MCQ answer letters: {'A': 23, 'B': 23, 'C': 23, 'D': 22}
+Figures: QN2-095..098 (graph identification; site/img/q/*.svg, review/figs/*.png)
+
+STATUS: COMPLETE

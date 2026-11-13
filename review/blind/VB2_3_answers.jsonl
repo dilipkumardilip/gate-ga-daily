@@ -1,0 +1,50 @@
+{"id": "VB2-121", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "VB2-122", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "VB2-123", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "VB2-124", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "VB2-125", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "VB2-126", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "VB2-127", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "VB2-128", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "VB2-129", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "VB2-130", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "VB2-131", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "VB2-132", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "VB2-133", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "VB2-134", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "VB2-135", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "VB2-136", "answer": "D", "confidence": "medium", "issue": "Brush : Painter and Plough : Farmer reverse order; Doctor:Hospital is place; Surgeon:Scalpel only match"}
+{"id": "VB2-137", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "VB2-138", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "VB2-139", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "VB2-140", "answer": "A", "confidence": "high", "issue": ""}
+{"id": "VB2-141", "answer": "D", "confidence": "medium", "issue": "'Negligence : Accident' (cause:effect) vs Practice : proficiency; rehearsal is a distractor synonym; relationship is loose"}
+{"id": "VB2-142", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "VB2-143", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "VB2-144", "answer": "B", "confidence": "medium", "issue": "Mechanic:Engine also arguably defensible (works on); Pilot:Aircraft is operator:vehicle, best match"}
+{"id": "VB2-145", "answer": "A", "confidence": "high", "issue": ""}
+{"id": "VB2-146", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "VB2-147", "answer": "A", "confidence": "high", "issue": ""}
+{"id": "VB2-148", "answer": "A", "confidence": "high", "issue": ""}
+{"id": "VB2-149", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "VB2-150", "answer": "A", "confidence": "high", "issue": ""}
+{"id": "VB2-151", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "VB2-152", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "VB2-153", "answer": "A", "confidence": "high", "issue": ""}
+{"id": "VB2-154", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "VB2-155", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "VB2-156", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "VB2-157", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "VB2-158", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "VB2-159", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "VB2-160", "answer": "A", "confidence": "high", "issue": ""}
+{"id": "VB2-161", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "VB2-162", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "VB2-163", "answer": "B", "confidence": "high", "issue": "Painter : Brush also looks like a tool pair but order reversed; B only"}
+{"id": "VB2-164", "answer": "A", "confidence": "high", "issue": ""}
+{"id": "VB2-165", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "VB2-166", "answer": ["A", "C"], "confidence": "high", "issue": "D (Teetotaller : Alcohol) is avoidance not consumption; A,C only"}
+{"id": "VB2-167", "answer": ["B", "D"], "confidence": "medium", "issue": "A (Cartographer : Maps) is debatable: cartographer makes maps rather than studies them; key likely B,D"}
+{"id": "VB2-168", "answer": ["A", "C"], "confidence": "high", "issue": ""}
+{"id": "VB2-169", "answer": ["B", "D"], "confidence": "high", "issue": ""}
+{"id": "VB2-170", "answer": ["B", "C"], "confidence": "high", "issue": ""}

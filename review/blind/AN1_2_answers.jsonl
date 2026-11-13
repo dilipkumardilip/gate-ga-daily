@@ -1,0 +1,60 @@
+{"id": "AN1-061", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "AN1-062", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "AN1-063", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "AN1-064", "answer": "A", "confidence": "high", "issue": ""}
+{"id": "AN1-065", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "AN1-066", "answer": "A", "confidence": "high", "issue": ""}
+{"id": "AN1-067", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "AN1-068", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "AN1-069", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "AN1-070", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "AN1-071", "answer": "A", "confidence": "high", "issue": ""}
+{"id": "AN1-072", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "AN1-073", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "AN1-074", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "AN1-075", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "AN1-076", "answer": ["A", "D"], "confidence": "high", "issue": ""}
+{"id": "AN1-077", "answer": "A", "confidence": "high", "issue": ""}
+{"id": "AN1-078", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "AN1-079", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "AN1-080", "answer": "A", "confidence": "high", "issue": ""}
+{"id": "AN1-081", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "AN1-082", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "AN1-083", "answer": "A", "confidence": "medium", "issue": "option D ('only if it does not rain') is also true under the biconditional reading of 'unless'"}
+{"id": "AN1-084", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "AN1-085", "answer": ["A", "C", "D"], "confidence": "high", "issue": ""}
+{"id": "AN1-086", "answer": "A", "confidence": "high", "issue": ""}
+{"id": "AN1-087", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "AN1-088", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "AN1-089", "answer": "A", "confidence": "high", "issue": ""}
+{"id": "AN1-090", "answer": ["A", "C"], "confidence": "high", "issue": ""}
+{"id": "AN1-091", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "AN1-092", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "AN1-093", "answer": ["A", "B", "D"], "confidence": "high", "issue": ""}
+{"id": "AN1-094", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "AN1-095", "answer": "A", "confidence": "high", "issue": ""}
+{"id": "AN1-096", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "AN1-097", "answer": "C", "confidence": "medium", "issue": "option B depends on 'unless' read as one-way implication; under iff reading B would also be non-equivalent, C still clearly non-equivalent"}
+{"id": "AN1-098", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "AN1-099", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "AN1-100", "answer": ["A", "C"], "confidence": "high", "issue": ""}
+{"id": "AN1-101", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "AN1-102", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "AN1-103", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "AN1-104", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "AN1-105", "answer": "A", "confidence": "high", "issue": ""}
+{"id": "AN1-106", "answer": "A", "confidence": "high", "issue": ""}
+{"id": "AN1-107", "answer": "A", "confidence": "high", "issue": ""}
+{"id": "AN1-108", "answer": ["A", "B", "D"], "confidence": "high", "issue": ""}
+{"id": "AN1-109", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "AN1-110", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "AN1-111", "answer": "B", "confidence": "high", "issue": ""}
+{"id": "AN1-112", "answer": 3, "confidence": "high", "issue": ""}
+{"id": "AN1-113", "answer": "A", "confidence": "high", "issue": ""}
+{"id": "AN1-114", "answer": 4, "confidence": "high", "issue": ""}
+{"id": "AN1-115", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "AN1-116", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "AN1-117", "answer": "C", "confidence": "high", "issue": ""}
+{"id": "AN1-118", "answer": 2, "confidence": "high", "issue": ""}
+{"id": "AN1-119", "answer": "D", "confidence": "high", "issue": ""}
+{"id": "AN1-120", "answer": ["A", "B", "D"], "confidence": "high", "issue": ""}
